@@ -1,0 +1,27 @@
+body{
+	font-family: andale, courier, monospace;
+}
+
+.title{
+	text-align: center;
+	font-weight: bold;
+	font-size: 2em;
+}
+
+.center{
+	text-align: center;
+}	
+
+.sticking{
+	text-align: center;
+}
+
+.links a{
+	color: #111111;
+	text-decoration: none;
+}
+
+.links a:hover{
+	color: #151515;
+	text-decoration: underline;
+}

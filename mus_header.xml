@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE MIDIFile SYSTEM "http://www.musicxml.org/dtds/midixml.dtd">
+<MIDIFile>
+<Format>1</Format>
+<TrackCount>2</TrackCount>
+<TicksPerBeat>120</TicksPerBeat>
+<TimestampType>Absolute</TimestampType>
+<Track Number="0">
+  <Event>
+    <Absolute>0</Absolute>
+    <TimeSignature Numerator="4" LogDenominator="2" MIDIClocksPerMetronomeClick="24" ThirtySecondsPer24Clocks="8"/>
+  </Event>
+  <Event>
+    <Absolute>0</Absolute>
+    <KeySignature Fifths="0" Mode="0"/>
+  </Event>
+  <Event>
+    <Absolute>0</Absolute>
+    <SetTempo Value="371520"/>
+  </Event>
+  <Event>
+    <Absolute>0</Absolute>
+    <EndOfTrack/>
+  </Event>
+</Track>
